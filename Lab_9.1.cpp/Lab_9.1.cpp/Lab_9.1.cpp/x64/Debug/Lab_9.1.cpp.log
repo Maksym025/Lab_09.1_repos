@@ -1,0 +1,11 @@
+﻿  dod.cpp
+  Lab_9.1.cpp.cpp
+  sum.cpp
+  var.cpp
+  Generating Code...
+C:\Users\MY\source\repos\Lab_9.1.cpp\Lab_9.1.cpp\dod.h(1,10): error C1014: too many include files: depth = 1024
+  (compiling source file 'Lab_9.1.cpp.cpp')
+  
+C:\Users\MY\source\repos\Lab_9.1.cpp\Lab_9.1.cpp\dod.h(1,10): error C1014: too many include files: depth = 1024
+  (compiling source file 'sum.cpp')
+  
